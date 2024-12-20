@@ -1,4 +1,8 @@
 # Obesity
+
+![Uploading Obesidad.png…]()
+
+
 This dataset include data for the estimation of obesity levels in individuals from the countries of Mexico,
  Peru and Colombia, based on their eating habits and physical condition.
 The data contains 17 attributes and 2111 records, the records are labeled with the class variable NObesity (Obesity Level).
